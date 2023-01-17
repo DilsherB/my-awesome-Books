@@ -1,6 +1,6 @@
 class bookShelf {
   constructor() {
-    
+    this.bookContainer = document.querySelector('.bookContainer');
   };
   addBook() {
     
